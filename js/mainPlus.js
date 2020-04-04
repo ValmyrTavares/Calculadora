@@ -46,6 +46,7 @@ clear.addEventListener("click", () => {
  
 })
  
+
 res.addEventListener("click", () => {
     console.log(lux)
     console.log(eval(lux))
